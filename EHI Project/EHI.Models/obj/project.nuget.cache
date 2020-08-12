@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NrYi0kpNIiMZK+cmoXV0d8FL4S+mDj1Z/n5XUJUnS9WZAZi72x8ChvNqWH5i+OsdVfZx17r/2/rQYqWLzV0qoA==",
+  "success": true,
+  "projectFilePath": "E:\\demo\\Core3.0\\EHI\\EHI Project\\EHI.Models\\EHI.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.5\\microsoft.aspnetcore.http.features.3.1.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

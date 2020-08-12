@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BusinessComponent\PublishFileProcessComponent_old.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Kveer.XmlRPC" Version="1.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.2.0" />
+    <PackageReference Include="System.Net.Http.Formatting.Extension" Version="5.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EHI.DAL\EHI.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
